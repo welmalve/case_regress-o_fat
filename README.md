@@ -7,3 +7,4 @@ Devido a pequena quantidade de dados, fiz a coleta de algumas informações adic
 A entrega desse projeto está sendo feita de algumas maneiras. Este documento contém os principais insights do projeto, além da análise dos resultados do modelo de Machine Learning. Os notebooks - Webscraping, Projeto e Análise - estão todos na pasta 'notebooks'. 
 Esse documento serve como um guia do projeto. A descrição das etapas estão inclusas nas próximas sessões. 
 
+Índice
