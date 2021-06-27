@@ -18,7 +18,7 @@ Esse documento serve como um guia do projeto. A descrição das etapas estão in
 •	07. Conclusões 
 •	08. Lições aprendidas 
 
-01. O Problema de Negócio 
+## 01. O Problema de Negócio 
 Um cliente do ramo alimentício do Rio de Janeiro solicitou uma análise para poder entender melhor o seu público alvo. Do conjunto de dados, estão disponíveis algumas métricas sociogeograficas de cada bairro - Renda média, idade, população e domicilios. Além disso, estão disponíveis os seus respectivos faturamentos brutos. Estão disponíveis, ao total, 160 bairros para análise. 
 Análise do Problema: 
 •	Granularidade : Por bairro; 
