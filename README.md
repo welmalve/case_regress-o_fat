@@ -92,7 +92,6 @@ A Idade também demonstra alta correlação com o Faturamento. Percebe-se que ba
 
 
 
-Perfil 
 Dessa forma, é possível traçar um perfil médio do público alvo desse comércio: 
 
 ![pub_alvo](https://user-images.githubusercontent.com/86089406/123552538-fd2cf380-d74c-11eb-99b8-a8ffbbf58f5a.png)
