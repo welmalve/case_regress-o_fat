@@ -1,2 +1,2 @@
-# case_regressão_fat
+# Case Técnico - Previsão de Faturamento
  
