@@ -9,8 +9,11 @@ Esse documento serve como um guia do projeto. A descrição das etapas estão in
 
 Índice 
 •	01. O Problema de Negócio 
+
 •	02. A Solução 
+
 •	03. Insights 
+
 •	04. Aplicação do Modelo de Machine Learning 
 •	05. Performance do Modelo de Machine Learning 
 •	06. Resultados de Negócio 
