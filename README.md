@@ -30,6 +30,7 @@ Um cliente do ramo alimentício do Rio de Janeiro solicitou uma análise para po
 Análise do Problema: 
 
 •	Granularidade : Por bairro; 
+
 •	Tipo de Modelo : Regressão. 
 
 02. A Solução 
