@@ -8,6 +8,7 @@ A entrega desse projeto está sendo feita de algumas maneiras. Este documento co
 Esse documento serve como um guia do projeto. A descrição das etapas estão inclusas nas próximas sessões. 
 
 Índice 
+
 •	01. O Problema de Negócio 
 
 •	02. A Solução 
