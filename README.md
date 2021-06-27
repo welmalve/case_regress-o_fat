@@ -35,6 +35,7 @@ Análise do Problema:
 
 ## 02. A Solução 
 A solução do problema está entregue em dois formatos: 
+
 •	Análise Exploratória dos Dados -> Fornecimento de Insights sobre as principais variáveis que impactam o faturamento do cliente. 
 
 •	Modelo em Produção -> Modelo de Regressão em produção no Heroku. 
