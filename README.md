@@ -9,14 +9,8 @@ Esse documento serve como um guia do projeto. A descrição das etapas estão in
 
 ## Índice 
 
-•	01. O Problema de Negócio 
-•	02. A Solução 
-•	03. Insights 
-•	04. Aplicação do Modelo de Machine Learning 
-•	05. Performance do Modelo de Machine Learning 
-•	06. Resultados de Negócio 
-•	07. Conclusões 
-•	08. Lições aprendidas 
+*01.O Problema de Negócio
+
 
 ## 01. O Problema de Negócio 
 Um cliente do ramo alimentício do Rio de Janeiro solicitou uma análise para poder entender melhor o seu público alvo. Do conjunto de dados, estão disponíveis algumas métricas sociogeograficas de cada bairro - Renda média, idade, população e domicilios. Além disso, estão disponíveis os seus respectivos faturamentos brutos. Estão disponíveis, ao total, 160 bairros para análise. 
