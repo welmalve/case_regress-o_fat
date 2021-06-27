@@ -9,7 +9,7 @@ Esse documento serve como um guia do projeto. A descrição das etapas estão in
 
 ## Índice 
 
-*01.O Problema de Negócio
+* 01.O Problema de Negócio
 
 
 ## 01. O Problema de Negócio 
