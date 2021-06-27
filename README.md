@@ -42,6 +42,7 @@ Alguns bairros se destacam no nível de receita. O gráfico a seguir elenca os d
 
  
 Ao colocar os dados médios dos dez principais bairros em faturamento, alguns padrões são verificados:
+
 ![padfat](https://user-images.githubusercontent.com/86089406/123552141-2d739280-d74b-11eb-95e0-e0832b947b0a.png)
 
 
