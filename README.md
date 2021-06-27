@@ -54,7 +54,7 @@ Com o mapa de calor do faturamento dos bairros da cidade, é visível o padrão 
  
 Os principais pontos de faturamento se concentram na Zona Sul e no Centro , além da Barra da Tijuca . O comércio na Zona Norte também possui um padrão médio interessante. Já o consumo na zona oeste é bem abaixo das demais localizações. 
 Ao analisar a correlação entre as variáveis disponíveis, algumas se destacaram: 
-IDH x Faturamento 
+## IDH x Faturamento 
 O IDH possui alto impacto sobre o Faturamento. 
 
 ![idh_fat](https://user-images.githubusercontent.com/86089406/123552245-b12d7f00-d74b-11eb-83fa-4f69f783d75e.png)
