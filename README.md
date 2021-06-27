@@ -9,9 +9,9 @@ Esse documento serve como um guia do projeto. A descrição das etapas estão in
 
 ## Índice 
 
-* 01. O Problema de Negócio
-* 02. A Solução
-* 03. Insights
+* 1. O Problema de Negócio
+* 2. A Solução
+* 3. Insights
 
 ## 01. O Problema de Negócio 
 Um cliente do ramo alimentício do Rio de Janeiro solicitou uma análise para poder entender melhor o seu público alvo. Do conjunto de dados, estão disponíveis algumas métricas sociogeograficas de cada bairro - Renda média, idade, população e domicilios. Além disso, estão disponíveis os seus respectivos faturamentos brutos. Estão disponíveis, ao total, 160 bairros para análise. 
