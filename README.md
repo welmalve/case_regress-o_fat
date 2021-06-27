@@ -37,6 +37,9 @@ Através da Análise Exploratória dos Dados, foi possível identificar alguns p
 
  
 Alguns bairros se destacam no nível de receita. O gráfico a seguir elenca os dez principais bairros por ordem de faturamento bruto:
+
+![top_10_bairros_faturamento](https://user-images.githubusercontent.com/86089406/123552059-cce45580-d74a-11eb-811f-54feb8a9c22f.png)
+
  
 Ao colocar os dados médios dos dez principais bairros em faturamento, alguns padrões são verificados:
  
