@@ -29,8 +29,11 @@ Análise do Problema:
 A solução do problema está entregue em dois formatos: 
 •	Análise Exploratória dos Dados -> Fornecimento de Insights sobre as principais variáveis que impactam o faturamento do cliente. 
 •	Modelo em Produção -> Modelo de Regressão em produção no Heroku. 
+
 3.0. Conhecimentos 
 Através da Análise Exploratória dos Dados, foi possível identificar alguns padrões sociodemográficos do público alvo do cliente. Algumas variáveis possuem um impacto sobre o problema em maior dimensão. As seguintes visões do problema foram analisadas: 
+
+![MinMap_faturamento](https://user-images.githubusercontent.com/86089406/123551997-93abe580-d74a-11eb-9f14-dd16f2d7e8e4.png)
 
  
 Alguns bairros se destacam no nível de receita. O gráfico a seguir elenca os dez principais bairros por ordem de faturamento bruto:
