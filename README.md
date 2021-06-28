@@ -122,7 +122,7 @@ Também avaliei o modelo utilizando o CrossValidation , só que dessa vez em tod
 
 
 
-O Modelo funciona de maneira satisfatória. Consegue aprender bon padrões dos dados de treinos. Mas também é capaz de generalizar para dados nunca vistos. Todas as nossas previsões seguiram as tendências dos faturamentos reais. Os erros existentes são mínimos.
+O Modelo funciona de maneira satisfatória. Consegue aprender bons padrões dos dados de treinos. Mas também é capaz de generalizar para dados nunca vistos. Todas as nossas previsões seguiram as tendências dos faturamentos reais. Os erros existentes são mínimos.
 
  ![fat_pev real](https://user-images.githubusercontent.com/86089406/123552659-788ea500-d74d-11eb-8527-077d94e0e4d9.png)
 
