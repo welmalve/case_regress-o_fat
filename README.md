@@ -8,21 +8,14 @@ A entrega desse projeto está sendo feita de algumas maneiras. Este documento co
 
 ## Índice 
 
-•	01. O Problema de Negócio 
-
-•	02. A Solução 
-
-•	03. Insights
-
-•	04. Aplicação do Modelo de Machine Learning 
-
-•	05. Performance do Modelo de Machine Learning 
-
-•	06. Resultados de Negócio 
-
-•	07. Conclusões 
-
-•	08. Lições aprendidas 
+•	[01. O Problema de Negócio]
+•	[02. A Solução]
+•	[03. Insights]
+•	[04. Aplicação do Modelo de Machine Learning]
+•	[05.Performance do Modelo de Machine Learning]
+•	[06.Resultados de Negócio]
+•	[07. Conclusões]
+•	[08. Lições aprendidas]
 
 
 ## 01. O Problema de Negócio 
